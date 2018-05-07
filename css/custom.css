@@ -1,0 +1,64 @@
+/* Style all font awesome icons */
+.fa, .fab {
+    padding: 15px;
+    font-size: 21px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover, .fab:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook, .fa-facebook:hover {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-instagram, .fa-instagram:hover {
+    background: #ea5d5a;
+    color: white;
+  }
+
+.fa-vk, .fa-vk:hover {
+    background: #587ea3;
+    color: white;
+}
+
+.fa-github, .fa-github:hover {
+    background: #444;
+    color: white;
+}
+
+.fa-telegram-plane, .fa-telegram-plane:hover {
+    background: #0d86d7;
+    color: white;
+}
+
+.fa-steam, .fa-steam:hover {
+    background: #171a21;
+    color: white;
+}
+
+.fa-book, .fa-book:hover {
+    background: #804d05;
+    color: white;
+}
+
+.fa-envelope, .fa-envelope:hover {
+    background: #dd5347;
+    color: white;
+}
+
+.timeline li p {
+    border-left: 2px solid #888888!important;
+    padding-left: 10px;
+}
+
+.contacts {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
